@@ -32,13 +32,16 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 ## Output Tabulation:
 <img width="617" height="317" alt="WhatsApp Image 2026-05-16 at 11 36 22 AM" src="https://github.com/user-attachments/assets/4923499a-9b93-430b-bb19-ff13a1f68f3a" />
 
-Unbalanced load:
-<img width="952" height="765" alt="image" src="https://github.com/user-attachments/assets/e9f5583e-34e7-49fa-88a1-0f4e0f068a26" />
+## Unbalanced load:
 
-output for unbalanced load:
-<img width="755" height="243" alt="image" src="https://github.com/user-attachments/assets/3e64e6d7-0bae-42ff-9707-8d56350296ce" />
+## Circuit diagram:
+<img width="1247" height="788" alt="WhatsApp Image 2026-05-19 at 11 21 57 AM" src="https://github.com/user-attachments/assets/9ed47c18-60e8-438d-a065-9c059d572876" />
 
+## Output:
+<img width="567" height="281" alt="WhatsApp Image 2026-05-19 at 11 21 58 AM" src="https://github.com/user-attachments/assets/41deb762-7cb8-4771-9aa3-77fb950cd372" />
 
+## Result:
+Thus three phase power using wattmeter is verified successfully. 
 
 
 
