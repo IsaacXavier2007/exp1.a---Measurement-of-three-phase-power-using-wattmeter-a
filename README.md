@@ -32,6 +32,15 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 ## Output Tabulation:
 <img width="617" height="317" alt="WhatsApp Image 2026-05-16 at 11 36 22 AM" src="https://github.com/user-attachments/assets/4923499a-9b93-430b-bb19-ff13a1f68f3a" />
 
+Unbalanced load:
+<img width="952" height="765" alt="image" src="https://github.com/user-attachments/assets/e9f5583e-34e7-49fa-88a1-0f4e0f068a26" />
+
+output for unbalanced load:
+<img width="755" height="243" alt="image" src="https://github.com/user-attachments/assets/3e64e6d7-0bae-42ff-9707-8d56350296ce" />
+
+
+
+
 
 ## Result:  
 Thus Three phase power measurement by two wattmeter method is Verfied.
