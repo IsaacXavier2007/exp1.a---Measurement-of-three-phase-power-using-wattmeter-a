@@ -41,7 +41,7 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 <img width="567" height="281" alt="WhatsApp Image 2026-05-19 at 11 21 58 AM" src="https://github.com/user-attachments/assets/41deb762-7cb8-4771-9aa3-77fb950cd372" />
 
 ## Result:
-Thus three phase power using wattmeter is verified successfully. 
+Thus three phase power using wattmeter is successfully verified.
 
 
 
